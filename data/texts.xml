@@ -1,3 +1,4 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<text page="28" pagewidth="501" pageheight="800" x="77" y="370" width="349" height="75" content="Klik Here!" target="https://wordwall.net/resource/65567790" color="blue" fontColor="0" fontSize="25" fontName="Tahoma" destination="" rel="noopener noreferrer">
-</text>
+<texts version="4.3.4" page="0" pagewidth="0" pageheight="0" x="0" y="0" width="0" height="0" content="" target="" color="0" fontColor="0" fontSize="0" fontName="" destination="">
+  <text page="28" pagewidth="501" pageheight="800" x="77" y="370" width="349" height="75" content="https://wordwall.net/resource/65567790" target="_blank" color="0" fontColor="0" fontSize="25" fontName="Tahoma" destination=""/>
+</texts>
